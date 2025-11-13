@@ -42,20 +42,7 @@ def test_whiten():
 
 def test_write_wavfile_simple():
     filename = 'test.wav'
-    fs = 4096
-    data = np.random.randn(1000)
-
-    try:
-        # write file
-        write_wavfile(filename, fs, data)
-        
-        # read it back
-        rate, audio = wavfile.read(filename)
-        
-        # basic check
-        assert os.path.exists(filename), "File not created"
-        assert rate == fs, f"Sample rate mismatch: {rate} != {fs}"
-        assert len(audio) == len(data), "Length mismatch"
+    fs = 4096A"
         assert audio.dtype == np.int16, "Wrong data type"
         assert np.max(np.abs(audio)) <= 32767, "Values out of range"
     except:
