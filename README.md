@@ -4,6 +4,7 @@
 **Authors:** LIGO Scientific Collaboration (LSC) and Char Tomlinson
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-charazar.git/HEAD)
 
+
 ## About
 
 This project analyzes gravitational wave data from LIGO's detection of GW150914 - the first observation of gravitational waves from merging black holes. The code processes signals from LIGO's Hanford and Livingston detectors and creates visualizations and audio files of the gravitational wave event.
