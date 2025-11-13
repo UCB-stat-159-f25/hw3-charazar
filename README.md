@@ -3,7 +3,7 @@
 **Statistics 159/259, Fall 2025**  
 **Authors:** LIGO Scientific Collaboration (LSC) and Char Tomlinson
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/[your-username]/[your-repo-name]/HEAD?labpath=LOSC_Event_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-charazar.git/HEAD
 
 ## About
 
@@ -28,7 +28,7 @@ pytest ligotools
 make html
 ```
 
-View the deployed site at: [your-github-pages-url]
+View the deployed site at: https://github.com/UCB-stat-159-f25/hw3-charazar.git 
 
 ## Makefile Commands
 
