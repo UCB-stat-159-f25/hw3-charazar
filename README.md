@@ -2,8 +2,7 @@
 
 **Statistics 159/259, Fall 2025**  
 **Authors:** LIGO Scientific Collaboration (LSC) and Char Tomlinson
-
-[![Binder](https://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-charazar.git/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-charazar.git/HEAD)
 
 ## About
 
